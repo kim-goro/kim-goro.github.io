@@ -16,10 +16,10 @@ minimal_mistakes_skin: "default" # "air", "aqua", "contrast", "dark", "dirt", "n
 
 # Site Settings
 locale: "en-US"
-title: "Python 개발일지"
+title: "Python dev"
 title_separator: "-"
 subtitle: # site tagline that appears below site title in masthead
-name: "김정우"
+name: "KimJungWoo"
 description: "python web develop with django."
 url: # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl: # the subpath of your site, e.g. "/blog"
@@ -106,10 +106,10 @@ analytics:
 
 # Site Author
 author:
-  name: "김정우"
+  name: "KIMJUNGWOO"
   avatar: # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio: "010-4438-1516"
-  location: "대구 달성군,달서구"
+  location: "Deagu"
   email: "aazz5505@gmail.com"
   links:
     - label: "Email"
